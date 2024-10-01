@@ -45,7 +45,7 @@ padding-top: 5px;
     stopki tak jak na rysyunku na tych wytyczny , mozna to zrobic po zwiekszeniu paddingu */     
 }
 #kwer{
-    border: solid 2px darkred;
+border: solid 2px darkred;
     background-color: salmon;
     padding: 20px 20px 20px 20px;
     line-height: 200px;
