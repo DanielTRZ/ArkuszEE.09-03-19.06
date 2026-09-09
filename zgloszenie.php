@@ -15,4 +15,3 @@ mysqli_close($baza);
 // } jak nie zadziła to odkomentować ifa
 
 ?>
-
