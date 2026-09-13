@@ -19,6 +19,7 @@
 
 
 
+
 <?php
 //if(isset($_POST['submit'])){ // działa z ifem jak i bez ifa 
 $lowisko = $_POST['lowisko'];
